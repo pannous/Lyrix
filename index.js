@@ -1,3 +1,4 @@
+#!/Users/me/.bun/bin/bun
 const { response } = require('express');
 const express = require('./node_modules/express');
 const request = require('./node_modules/request');
